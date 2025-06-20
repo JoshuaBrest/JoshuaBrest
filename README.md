@@ -1,11 +1,11 @@
-# `> Hi there 👋, I'm Josh`
+# `> Hi there 👋, I'm Josh (杰成)`
 
-<img align="right" alt="JoshuaBrest's Stats" src="https://github-readme-stats.vercel.app/api?username=joshuabrest&amp;theme=dark&amp;locale=cn&amp;show_icons=true&amp;rank_icon=github&amp;border_color=292929"/>
+<img align="right" alt="JoshuaBrest's Stats" src="https://github-readme-stats.vercel.app/api?username=joshuabrest&amp;theme=dark&amp;locale=en&amp;show_icons=true&amp;rank_icon=github&amp;border_color=292929"/>
 
 I aim to create technology that betters people, wherever they are.
 
 ## 🔰 Learning Journey
-- 🏫 Currently a student in Los Angeles, California
+- 🏫 Currently a student in The Bay Area, California
 - 😵 Learning other spoken languages
 
 ## ⚡ Skills and Technologies
